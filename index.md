@@ -2,7 +2,7 @@
 The QUT Robotics Club is a student run organisation dedicated to promoting robotics within the QUT community and supporting QUT students’ future in Robotics.
 
 ### Our Team
-[Link](url) and ![Image](src)
+![Image](2020-21_QUTRC_Executives.jpg)
 #### QUT Robotics Club Executives 2020-2021
 + President - Ryan Malone
 + Vice President - Cody Cripps
