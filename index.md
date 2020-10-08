@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## QUT Robotics Club
+The QUT Robotics Club is a student run organisation dedicated to promoting robotics within the QUT community and supporting QUT students’ future in Robotics.
+
+### Our Team
+[Link](url) and ![Image](src)
+#### QUT Robotics Club Executives 2020-2021
+President - Ryan Malone
+Vice President - Cody Cripps
+Treasurer - Harrison Giles
+Secretary - Luigi Jaldon
+General Executives - Haard Shar, Louis Von Richter, Smriti Bangera, Andrew Razjigaev, Lindsey Paul
+
+### Social Media
+Facebook Page
+Facebook Group
+Discord
+
+
 
 You can use the [editor on GitHub](https://github.com/qut-robotics-club/qut-robotics-club.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
