@@ -4,11 +4,11 @@ The QUT Robotics Club is a student run organisation dedicated to promoting robot
 ### Our Team
 [Link](url) and ![Image](src)
 #### QUT Robotics Club Executives 2020-2021
-President - Ryan Malone
-Vice President - Cody Cripps
-Treasurer - Harrison Giles
-Secretary - Luigi Jaldon
-General Executives - Haard Shar, Louis Von Richter, Smriti Bangera, Andrew Razjigaev, Lindsey Paul
++ President - Ryan Malone
++ Vice President - Cody Cripps
++ Treasurer - Harrison Giles
++ Secretary - Luigi Jaldon
++ General Executives - Haard Shar, Louis Von Richter, Smriti Bangera, Andrew Razjigaev, Lindsey Paul
 
 ### Social Media
 Facebook Page
