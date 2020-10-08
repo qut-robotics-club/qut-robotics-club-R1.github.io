@@ -1,6 +1,9 @@
 ## QUT Robotics Club
 The QUT Robotics Club is a student run organisation dedicated to promoting robotics within the QUT community and supporting QUT students’ future in Robotics.
 
+## Pages
+<a href={{ robots.md }}>{{ robots }}</a>
+
 ### Our Team
 ![Image](2020-21_QUTRC_Executives.jpg)
 #### QUT Robotics Club Executives 2020-2021
