@@ -1,10 +1,6 @@
 theme: jekyll-theme-minimal
 title: QUT Robotics Club
 description: Homepage, text, [link](https://qut-robotics-club.github.io/robots)
-thumbnail-img: "QUTRCLOGO_NOTEXT.png"
+logo: "QUTRCLOGO_NOTEXT.png"
 #layout: page
-navigation:
-  - title: Home
-    url: /
-  - title: Robots
-    url: robots
+
